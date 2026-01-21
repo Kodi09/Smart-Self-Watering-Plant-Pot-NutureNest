@@ -50,5 +50,6 @@ Sensor data is continuously read within the main loop. Soil moisture values are 
 
 ## Circuit Design
 The circuit design supports real-time sensing, visual feedback, and automated watering within a compact embedded system.
+
 <img width="497" height="233" alt="Screenshot 2026-01-21 at 5 26 52 PM" src="https://github.com/user-attachments/assets/1816dd93-2c28-4446-bc75-941d688f9860" />
 
