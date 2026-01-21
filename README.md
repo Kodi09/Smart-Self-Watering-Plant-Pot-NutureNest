@@ -5,7 +5,7 @@ Nurture Nest is an interactive plant-care system that combines environmental sen
 <img width="368" height="375" alt="Screenshot 2026-01-21 at 5 38 42 PM" src="https://github.com/user-attachments/assets/c71c8bc4-2f12-42da-aa59-0c5e79eae268" />
 
 ## Overview
-The project integrates multiple sensors and actuators on an Arduino platform to create a responsive embedded system to emphasize on human-centered interaction, combining functional plant care with expressive feedback to encourage engagement and awareness of environmental conditions. In addition to maintaining plant health through automated watering, the system uses an LED matrix to display expressive visual states based on environmental conditions and user interaction. A capacitive touch sensor allows users to interact with the system, triggering visual feedback and reinforcing a user-centric, emotionally expressive design.  
+This project integrates multiple sensors and actuators on an Arduino platform to create a responsive embedded system that emphasizes human-centered interaction. It combines functional plant care with expressive visual feedback to encourage user engagement and awareness of environmental conditions. In addition to maintaining plant health through automated watering, the system uses an LED matrix to display expressive states based on sensor data and user interaction. A capacitive touch sensor enables direct interaction, triggering visual responses and reinforcing a user-centric, emotionally expressive design.  
 The design is divided into three main layers: an upper layer that holds the plant
 and growing medium, a middle layer that houses the electronics and wiring, and a
 lower layer that serves as the water reservoir for automated irrigation.
